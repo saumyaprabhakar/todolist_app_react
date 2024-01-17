@@ -7,3 +7,5 @@ Link- https://todolist-app-react-kohl.vercel.app/
 
 
 ![Preview of the application](image.png)
+![Preview of the applicaiton](image-1.png)
+![Application active tasks preview](image-2.png)
