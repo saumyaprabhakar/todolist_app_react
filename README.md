@@ -1,5 +1,5 @@
 # Todolist Application in React
-This todolist app is built on react and helps users track their tasks.
+This to-do list app is built on React and helps users track their tasks.
 
 ## Deployed Application
 The application is deployed using Vercel
@@ -10,7 +10,7 @@ Link- https://todolist-app-react-kohl.vercel.app/
 Application home screen
 
 
-![Preview of the applicaiton](image-1.png)
+![Preview of the application](image-1.png)
 Input field to add new tasks
 
 
